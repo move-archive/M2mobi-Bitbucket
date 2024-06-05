@@ -1,6 +1,6 @@
 ## Move Archive
 
-**A list of the repo's from the old m2mobi BitBucket server corresponding with the  they are from.**
+**A list of the repo's from the old m2mobi BitBucket server with their corresponding projects.**
 
 ------------------------------------
 
